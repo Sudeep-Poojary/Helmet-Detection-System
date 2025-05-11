@@ -16,3 +16,4 @@ tflite-exported-models
 ssd_mobilenet_model_quant_f16.tflite
 data/ 
 ei-new_helmet_4-arduino-1.0.4.zip
+helmet_detection_cocodataset
